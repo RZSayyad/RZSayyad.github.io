@@ -127,6 +127,5 @@ The API key never leaves the server. The browser only knows about `/api/chat`.
 
 ---
 
-## 📄 License
 
-MIT — feel free to use this as a reference for your own portfolio.
+
